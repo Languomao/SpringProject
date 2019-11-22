@@ -11,6 +11,9 @@
     <modules>
         <module>spring-boot-pay</module>
         <module>spring-boot-pay</module>
+        <module>spring-boot-seckill</module>
+        <module>spring-boot-mail</module>
+        <module>spring-boot-mail</module>
     </modules>
 
 
