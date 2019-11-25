@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-doc" />
+        <module name="spring-boot-elasticsearch" />
+        <module name="spring-boot-fastdfs" />
         <module name="spring-boot-mail" />
         <module name="spring-boot-pay" />
+        <module name="spring-boot-quartz" />
         <module name="spring-boot-seckill" />
+        <module name="xufei_msc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
